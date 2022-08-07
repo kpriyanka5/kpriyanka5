@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpriyanka5
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kothuripriyanka5@gmail.com
 
